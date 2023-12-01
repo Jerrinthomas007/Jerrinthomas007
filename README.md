@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jerrin Thomas</h1>
 <div align="center"><img src="https://github.com/Jerrinthomas007/Jerrinthomas007/blob/main/Jerrin%20Thomas..png"></div>
+<h1 align="center">Hi 👋, I'm Jerrin Thomas</h1>
 <h3 align="center">Unleashing the Power of Data: A Year in the World of a Data Scientist</h3>
 <img align ="right" alt="Coding"  width="350" height="250" src="https://github.com/Jerrinthomas007/Jerrinthomas007/blob/main/coding.gif">
 
